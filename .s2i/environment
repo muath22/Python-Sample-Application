@@ -1,2 +1,5 @@
 APP_CONFIG=config.py
 APP_CONFIG=package.json
+APP_CONFIG=setup.py
+APP_CONFIG=app.py
+APP_CONFIG=app.json
